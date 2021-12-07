@@ -1,6 +1,6 @@
 [submodule "3rdparty/qredisclient"]
 	path = 3rdparty/qredisclient
-	url = https://github.com/uglide/qredisclient.git
+	url = https://github.com/w-a-n-g-s-h-u-n/qredisclient.git
 [submodule "3rdparty/pyotherside"]
 	path = 3rdparty/pyotherside
 	url = https://github.com/uglide/pyotherside.git
